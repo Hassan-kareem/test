@@ -1,6 +1,6 @@
 {
-  "version": "2",
-  "versionCode": 120,
-  "zipUrl": "https://github.com/yourusername/yourrepository/releases/download/NotoNastaliq-v3/.zip",
-  "changelog": "https://raw.githubusercontent.com/yourusername/yourrepository/master/changelog.md"
+  "version": "3.0",
+  "versionCode": 300,
+  "zipUrl": "https://github.com/Hassan-kareem/test/releases/download/NotoNastaliq-v3/NotoNastaliqUrdu-v3.zip",
+  "changelog": "https://raw.githubusercontent.com/Hassan-kareem/test/main/changelog.md"
 }

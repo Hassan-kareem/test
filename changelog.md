@@ -1,1 +1,2 @@
-- Testing OTA update
+- version 3.0
+- Testing OTA
